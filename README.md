@@ -13,5 +13,6 @@ Your Homework
 [1] CPA: An estimated point in which the distance between two objects, of which at least
 one is in motion, will reach its minimum value
 
+### NO NEURAL NETWORKS, ONLY ML ALGORITHM
 
-# NO NEURAL NETWORKS, ONLY ML ALGORITHM
+In the root of the repo there is the report with all the information regarding this work
